@@ -16,4 +16,4 @@ spec:
       matches:
         - path:
             type: PathPrefix
-            value: /gbui
+            value: /
